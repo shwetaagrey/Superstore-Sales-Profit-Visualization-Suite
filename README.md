@@ -16,16 +16,16 @@ The dashboard is designed to facilitate quick analysis and decision-making based
 The “Sales by Year” visualization lacks clarity in differentiating between the years, which may lead to misinterpretation of the data. 
 
 # Solution: 
-Implement distinct color schemes or enhance the labeling for each year to improve data distinction and readability. This will enable users to quickly discern the sales trends for each year at a glance.
+Implement distinct color schemes or enhance the labeling for each year to improve data distinction and readability.
 
 # Problem Statement: 
-While the “Profit as per Quarter” graph shows an upward trend, it does not explain the underlying factors contributing to this increase. 
+While the “Profit as per Quarter” graph shows an upward trend, explain the underlying factors contributing to this increase. 
 
 # Solution: 
-Introduce a feature that allows users to click on data points to view detailed annotations or a summary of strategic actions taken in each quarter that influenced the profit margins. This contextual information can help users understand what drives profit changes.
+“Profit as per Quarter” allows users to click on data points to view detailed annotations or a summary of strategic actions taken in each quarter that influenced the profit margins. This contextual information can help users understand what drives profit changes.
 
 # Problem Statement: 
-The dashboard currently does not offer filters for granular analysis, such as by specific states or product categories. 
+The dashboard currently does offer filters for granular analysis, such as by specific states or product categories. 
 
 # Solution: 
-Add interactive filters for users to tailor the dashboard view according to specific criteria like state, category, or other relevant parameters. This will enable a more detailed and personalized analysis, catering to the diverse needs of the users.
+The dashboard view according to specific criteria like state, category, or other relevant parameters.
